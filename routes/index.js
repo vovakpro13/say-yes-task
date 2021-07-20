@@ -1,0 +1,1 @@
+module.exports.achievementsRouter = require('./achievements.route');

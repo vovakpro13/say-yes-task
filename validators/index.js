@@ -1,0 +1,1 @@
+module.exports.echievementsValidator = require('./achievements.validator');
